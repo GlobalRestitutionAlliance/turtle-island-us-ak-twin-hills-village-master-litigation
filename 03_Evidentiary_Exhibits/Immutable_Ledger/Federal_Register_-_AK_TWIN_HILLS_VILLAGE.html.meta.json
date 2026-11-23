@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+TWIN+HILLS+VILLAGE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+TWIN+HILLS+VILLAGE",
+  "title": "Federal Register - AK TWIN HILLS VILLAGE",
+  "fetched_at": "2026-11-23T17:28:47.977390Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 327337,
+  "sha256": "53c8ae9017298af4ee8776779c3795169c74557e3125bb9b26819a5f30dacfd6",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
